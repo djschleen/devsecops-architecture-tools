@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+*NOTE: You can provide multiple versions of your logos or icons. Where possible, please use the ```-logo.svg``` suffix for your logos, and ```-icon.svg``` for your icons.*
+
 **Vendor Information**
 Provide an overview of what your company and/or product provides for DevOps/DevSecOps related work. Please describe in the context of value created.
 
