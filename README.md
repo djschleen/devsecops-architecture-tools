@@ -8,7 +8,7 @@
 
 ## Overview
 
-Over the years I've created many DevSecOps Reference architectures for the various organizations that I've worked at. One of the largest architectures I've created was when I was working as a DevSecOps Evangelist at Sonatype. I've been asked many times for some of the tools and utilities that I've used to create these architectures, and this is what this repository is meant to help with.
+Over the years I've created many DevSecOps Reference architectures for the various organizations that I've worked at. One of the [largest architectures](https://www.sonatype.com/resources/white-paper-test-drive-a-devsecops-reference-architecture) I've created was when I was working as a DevSecOps Evangelist at Sonatype. I've been asked many times for some of the tools and utilities that I've used to create these architectures, and this is what this repository is meant to help with.
 
 ## Tools and Content
 
