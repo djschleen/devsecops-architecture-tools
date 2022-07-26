@@ -2,7 +2,9 @@
 
 # devsecops-architecture-tools
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/djschleen/devsecops-architecture-tools)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/djschleen/devsecops-architecture-tools) 
+
+***NOTE: To add a vendor or product logo to this project, please use the [addition request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose) form.***
 
 ## Overview
 
@@ -18,8 +20,30 @@ This repository contains the following tools and content:
 | Product Images | [img/products](img/products/) | This folder contains product logos for many DevOps related tools (open and closed source). Where possible, files end in ```-logo``` for a full logo and ```-icon``` for a product icon. |
 | Vendor Images | [img/vendors](img/vendors/) | This folder contains vendor logos for companies that you'll regularly encounter when building out DevOps/DevSecOps pipelines. Where possible, files end in ```-logo``` for a full logo and ```-icon``` for a product icon. |
 
+## Using the diagrams.net (draw.io) pipeline library
+
+### Get draw.io
+[diagrams.net](https://diagrams.net) (previously draw.io) is a free and open source cross-platform graph drawing software developed in HTML5 and JavaScript. Its interface can be used to create diagrams such as flowcharts, wireframes, UML diagrams, organizational charts, and network diagrams. You can download an entire working copy from the website, or from [github.com](https://github.com/jgraph/drawio-desktop). It's also available as a snap if you are using Ubuntu.
+
+### Open the pipeline-shapes libary
+
+1. Once you open Draw.io, select "Open Library" from the "File" Menu 
+
+![](img/docs/openlibrary.png)
+
+2. Open the [pipeline-shapes.xml](drawio/libraries/pipeline-shapes.xml) file.
+
+![](img/docs/pipelineshapes.png)
+
+3. Start drawing!
+
+## Vendor and product logo addition or removal requests
+If you would like to add a logo for your organization and/or product to this repository, please create an [addition request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose). Your request will be reviewed and added to the repository if it is a DevOps/DevSecOps related tool.
+
+Please provide as much information in the request as possible. You may see your product appear in my next reference architecture. I love to try out new tools as well, so feel free to provide any demo information.
+
 ## Important note about vendor and product Logos
-I've gathered many high quality vendor and product logos from around the Internet and through the various relationships I've had with the vendor community and included them here. It's important to note that all logos and images are the sole property of their respective owners. If you are a trademark or copyright owner and *DO NOT* want your logos to be in this repository, please create an Issue in this repository to request removal.
+I've gathered many high quality vendor and product logos from around the Internet and through the various relationships I've had with the vendor community and included them here. It's important to note that all logos and images are the sole property of their respective owners. If you are a trademark or copyright owner and *DO NOT* want your logos to be in this repository, please create a [removal request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose) in this repository to request removal.
 
 ## Reference Architectures
 ### Sonatype DevSecOps Reference Architecture
