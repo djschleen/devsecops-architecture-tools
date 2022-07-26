@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 105.504 59.819 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clippath2" transform="">
+      <path d="M 1 83.003 C 1 38.059 37.559 1.5 82.502 1.5 L 82.502 1.5 C 127.445 1.5 164.003 38.059 164.003 83.003 L 164.003 83.003 C 164.003 127.946 127.445 164.504 82.502 164.504 L 82.502 164.504 C 37.559 164.504 1 127.946 1 83.003" style="fill: none; clip-rule: nonzero;"/>
+    </clipPath>
+    <linearGradient id="shading1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" style="stop-color: rgb(113, 130, 195);"/>
+      <stop offset="0.1" style="stop-color: rgb(110, 138, 198);"/>
+      <stop offset="0.2" style="stop-color: rgb(107, 146, 202);"/>
+      <stop offset="0.3" style="stop-color: rgb(104, 154, 205);"/>
+      <stop offset="0.4" style="stop-color: rgb(101, 162, 208);"/>
+      <stop offset="0.5" style="stop-color: rgb(98, 170, 211);"/>
+      <stop offset="0.6" style="stop-color: rgb(95, 178, 215);"/>
+      <stop offset="0.7" style="stop-color: rgb(92, 186, 218);"/>
+      <stop offset="0.8" style="stop-color: rgb(89, 193, 221);"/>
+      <stop offset="0.9" style="stop-color: rgb(86, 201, 224);"/>
+      <stop offset="1" style="stop-color: rgb(83, 208, 227);"/>
+    </linearGradient>
+    <clipPath id="clippath3" transform="">
+      <path d="M 0 165.504 L 165.004 165.504 L 165.004 0 L 0 0 Z" style="fill: none; clip-rule: nonzero;"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(0.362529, 0, 0, -0.362529, -0.000001, 165.503998)">
+    <g transform="">
+      <path d="M 1 83.003 C 1 38.059 37.559 1.5 82.502 1.5 L 82.502 1.5 C 127.445 1.5 164.003 38.059 164.003 83.003 L 164.003 83.003 C 164.003 127.946 127.445 164.504 82.502 164.504 L 82.502 164.504 C 37.559 164.504 1 127.946 1 83.003" style="fill: none;"/>
+    </g>
+    <g style="clip-path: url(#clippath2);">
+      <g transform="matrix(92.6999969 0 0 -92.6999969 60.243679 83.0019455)">
+        <rect x="-0.6498778965978583" y="-0.8899898301938344" width="1.7799784845515996" height="1.7853722279897937" style="fill: url(#shading1);"/>
+      </g>
+    </g>
+    <g transform="">
+      <path d="M 0 165.504 L 165.004 165.504 L 165.004 0 L 0 0 Z" style="fill: none;"/>
+    </g>
+    <g style="clip-path: url(#clippath3);">
+      <g transform="translate(125.5702 41.5227)">
+        <path d="M 0 0 C 0 1.581 -0.527 2.634 -1.448 3.82 L -36.476 47.01 L -3.82 79.404 C -2.767 80.456 -2.106 81.641 -2.106 83.091 C -2.106 85.724 -4.345 88.226 -7.111 88.226 C -8.822 88.226 -10.008 87.436 -11.194 86.382 L -63.733 32.525 L -63.733 82.958 C -63.733 85.854 -66.104 88.226 -69.001 88.226 C -71.765 88.226 -74.136 85.854 -74.136 82.958 L -74.136 0 C -74.136 -2.896 -71.765 -5.268 -69.001 -5.268 C -66.104 -5.268 -63.733 -2.896 -63.733 0 L -63.733 20.017 L -43.85 39.899 L -9.482 -2.896 C -8.56 -4.214 -7.243 -5.268 -5.269 -5.268 C -2.37 -5.268 0 -2.766 0 0" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      </g>
+    </g>
+  </g>
+</svg>
