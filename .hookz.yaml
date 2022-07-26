@@ -1,0 +1,10 @@
+  version: 2.4.0
+  hooks:
+    - type: pre-commit
+      actions:
+        - name: "git: Pull (Ensure there are no upstream changes that are not local)"
+          exec: git
+          args: ["pull"]  
+        - name: "git: Add all changed files during the pre-commit stage"
+          exec: git
+          args: ["add", "."]
