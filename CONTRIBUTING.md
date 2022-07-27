@@ -1,4 +1,4 @@
-# Contributing to SHS
+# Contributing to this project
 
 ## We Develop with Github
 
@@ -21,4 +21,4 @@ All Code Changes Happen Through Pull Requests.  Pull requests are the best way t
 
 ## Licensing Notes
 
-Any contributions you make will be under the MIT Software License. When you submit code changes, your submissions are understood to be under the same MIT License that covers the project. Feel free to contact the maintainers if that's a concern.
+Any contributions you make will be under the MPL Software License. When you submit code changes, your submissions are understood to be under the same MPL License that covers the project. Feel free to contact the maintainers if that's a concern.
