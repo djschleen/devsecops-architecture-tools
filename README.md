@@ -48,7 +48,7 @@ I've gathered many high quality vendor and product logos from around the open so
 
 If you are a trademark or copyright owner and *DO NOT* want your logos to be in this repository, please create a [removal request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose) in this repository to request removal.
 
-All content in this project is provided on an “as-is” and “as available” basis, and it’s intended for non-commercial, informational purpose only, and to educate and inform. Source code (included in the [bin/](bin/) directory) is covered under the [Mozilla Public License Version 2.0](LICENSE). There is no warranty that any of the materials on its website are accurate, complete or current.
+All content in this project is provided on an “as-is” and “as available” basis, and it’s intended for non-commercial, informational purpose only, and to educate and inform. Source code (included in the [bin/](bin/) directory) is covered under the [Mozilla Public License Version 2.0](LICENSE). There is no warranty that any of the materials in this project are accurate, complete or current.
 
 For questions about using any of the logos and brand elements, please contact the copyright and/or trademark holder directly to request a licensed agreement.
 
