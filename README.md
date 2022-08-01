@@ -70,7 +70,8 @@ View, modify, and save a version customized to your needs. Our draw.io file form
 Download my [Sonatype DevSecOps Reference Architecture](https://www.sonatype.com/resources/white-paper-test-drive-a-devsecops-reference-architecture)
 
 
-
 ## Credits
 
 A big thank-you to [Nikita Golubev](https://www.flaticon.com/authors/nikita-golubev) for the repository logo.
+
+A huge shout out to [FlatIcon](https://www.flaticon.com) and all of their contributors for the [icons](img/icons/) used by this project.
