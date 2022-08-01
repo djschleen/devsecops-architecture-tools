@@ -37,13 +37,22 @@ This repository contains the following tools and content:
 
 3. Start drawing!
 
-## Vendor and product logo addition or removal requests
-If you would like to add a logo for your organization and/or product to this repository, please create an [addition request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose). Your request will be reviewed and added to the repository if it is a DevOps/DevSecOps related tool.
+## Contributing vendor and product logos
+If you would like to add a logo for your organization and/or product to this repository, please create an [addition request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose). Ideally, you'll provide links to SVG format files, but if you don't have any available, feel free to submit a PNG format file. Ensure that any PNG file has a transparent background and is as large as you can find. Your request will be reviewed and added to the repository if it is a DevOps/DevSecOps related tool. 
 
 Please provide as much information in the request as possible. You may see your product appear in my next reference architecture. I love to try out new tools as well, so feel free to provide any demo information.
 
 ## Important note about vendor and product Logos
-I've gathered many high quality vendor and product logos from around the Internet and through the various relationships I've had with the vendor community and included them here. It's important to note that all logos and images are the sole property of their respective owners. If you are a trademark or copyright owner and *DO NOT* want your logos to be in this repository, please create a [removal request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose) in this repository to request removal.
+
+I've gathered many high quality vendor and product logos from around the open source community and through the various relationships I've had with the vendor community and included them here. It's important to note that all logos and images are the sole property of their respective owners. Where possible, there will be links to any usage guidelines if they have been provided with the logo assets.
+
+If you are a trademark or copyright owner and *DO NOT* want your logos to be in this repository, please create a [removal request](https://github.com/djschleen/devsecops-architecture-tools/issues/new/choose) in this repository to request removal.
+
+All content in this project is provided on an “as-is” and “as available” basis, and it’s intended for non-commercial, informational purpose only, and to educate and inform. Source code (included in the [bin/](bin/) directory) is covered under the [Mozilla Public License Version 2.0](LICENSE). There is no warranty that any of the materials in this project are accurate, complete or current.
+
+For questions about using any of the logos and brand elements, please contact the copyright and/or trademark holder directly to request a licensed agreement.
+
+Please note that any images appearing in this project may not be associated with or sponsored by the copyright and/or trademark holder.
 
 ## Reference Architectures
 ### Sonatype DevSecOps Reference Architecture
@@ -60,6 +69,9 @@ View, modify, and save a version customized to your needs. Our draw.io file form
 
 Download my [Sonatype DevSecOps Reference Architecture](https://www.sonatype.com/resources/white-paper-test-drive-a-devsecops-reference-architecture)
 
+
 ## Credits
 
 A big thank-you to [Nikita Golubev](https://www.flaticon.com/authors/nikita-golubev) for the repository logo.
+
+A huge shout out to [FlatIcon](https://www.flaticon.com) and all of their contributors for the [icons](img/icons/) used by this project.
